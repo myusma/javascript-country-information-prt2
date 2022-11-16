@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:wght@300;400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import "https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:wght@300;400;700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap";
 * {
     margin: 0;
     padding: 0;
@@ -9,15 +9,12 @@
 body {
     font-family: Roboto, serif;
 }
-
-
 .world-map-two{
     display: flex;
     justify-content: center;
     max-width: 1500px;
 
 }
-
 .container{
 
     display: flex;
@@ -32,15 +29,12 @@ body {
 
 
 }
-
-
 .nedFlag {
 
     height:30px;
     width:40px;
     display: inline;
 }
-
 .nedName{
     text-align: left;
     height:20px;
@@ -51,7 +45,6 @@ body {
     margin-top: 3px;
 
 }
-
 .language{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -62,7 +55,6 @@ body {
     margin-bottom: 20px;
 
 }
-
 .search{
     display: flex;
     flex-direction: row;
@@ -71,8 +63,6 @@ body {
 
 
 }
-
-
 .search .enter{
     background-color: yellowgreen;
     border-end-end-radius: 10px;
@@ -81,7 +71,6 @@ body {
     border: none;
     width: 100px;
 }
-
 .search .input{
     padding: 5px;
     border-top-left-radius: 10px;
@@ -94,3 +83,4 @@ body {
     border-width: 1px;
 
 }
+/*# sourceMappingURL=index.be5cf2f4.css.map */
