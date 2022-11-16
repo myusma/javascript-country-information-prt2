@@ -1,7 +1,7 @@
 {
   "name": "frontend-javascript-country-information-searcher",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jouw Country Information App was een grote hit bij Constantijn. Hij moest echter wel lang scrollen en scannen naar de\r juiste informatie voor hij onschuldige voorbijgangers kon imponeren met zijn kennis. Hij heeft jou daarom gevraagd of je\r een zoek-functionaliteit kunt inbouwen zodat hij naar landen kan zoeken en zo direct allerlei informatie te zien krijgt.",
   "main": "src/app.js",
   "scripts": {
     "start": "parcel src/index.html",
@@ -12,5 +12,16 @@
   "devDependencies": {
     "parcel": "^2.0.0",
     "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myusma/javascript-country-information-prt2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myusma/javascript-country-information-prt2/issues"
+  },
+  "homepage": "https://github.com/myusma/javascript-country-information-prt2#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
   }
 }
